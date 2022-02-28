@@ -1,0 +1,15 @@
+D:\New folder\ContactPOC\Data\bin\Debug\Data.dll.config
+D:\New folder\ContactPOC\Data\bin\Debug\Data.dll
+D:\New folder\ContactPOC\Data\bin\Debug\Data.pdb
+D:\New folder\ContactPOC\Data\bin\Debug\AutoMapper.dll
+D:\New folder\ContactPOC\Data\bin\Debug\EntityFramework.dll
+D:\New folder\ContactPOC\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\ContactPOC\Data\bin\Debug\System.Web.Http.WebHost.dll
+D:\New folder\ContactPOC\Data\bin\Debug\AutoMapper.xml
+D:\New folder\ContactPOC\Data\bin\Debug\EntityFramework.xml
+D:\New folder\ContactPOC\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\ContactPOC\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\New folder\ContactPOC\Data\obj\Debug\Data.csproj.CopyComplete
+D:\New folder\ContactPOC\Data\obj\Debug\Data.dll
+D:\New folder\ContactPOC\Data\obj\Debug\Data.pdb
+D:\New folder\ContactPOC\Data\obj\Debug\Data.csprojAssemblyReference.cache

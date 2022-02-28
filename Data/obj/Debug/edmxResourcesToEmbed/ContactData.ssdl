@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ContactPOCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ContactMaster">
+    <Key>
+      <PropertyRef Name="ContactId" />
+    </Key>
+    <Property Name="ContactId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="300" />
+    <Property Name="LastName" Type="varchar" MaxLength="300" />
+    <Property Name="Email" Type="varchar" MaxLength="300" />
+    <Property Name="PhoneNumber" Type="varchar" MaxLength="300" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+    <Property Name="ShowStatus" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="ContactPOCModelStoreContainer">
+    <EntitySet Name="ContactMaster" EntityType="Self.ContactMaster" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,8 @@
+D:\New folder\ContactPOC\Clients\bin\Debug\Clients.dll
+D:\New folder\ContactPOC\Clients\bin\Debug\Clients.pdb
+D:\New folder\ContactPOC\Clients\bin\Debug\System.Web.Http.WebHost.dll
+D:\New folder\ContactPOC\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+D:\New folder\ContactPOC\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\New folder\ContactPOC\Clients\obj\Debug\Clients.csproj.CopyComplete
+D:\New folder\ContactPOC\Clients\obj\Debug\Clients.dll
+D:\New folder\ContactPOC\Clients\obj\Debug\Clients.pdb
